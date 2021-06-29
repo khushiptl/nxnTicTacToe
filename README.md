@@ -9,8 +9,6 @@ Packages
 
 React Router 📶
 React Redux ⚛
-Firestore 🔥🏬
-Firebase auth 🔒
 Redux-persist
 
 
